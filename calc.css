@@ -1,0 +1,27 @@
+body{
+    background: url(pizarra.jpg) no-repeat center;
+}
+
+h1{
+    padding: 25px 20px;
+    margin: 15px 40%;
+    text-align: center;
+    font-size: 50px;
+    border: 10px solid chocolate;
+    border-top-left-radius: 40px;
+    border-bottom-right-radius: 40px;
+    border-top-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+    color: brown;
+}
+.calc{
+    font-size: 35px;
+    padding: 25px 30px;
+    margin: 15px 30%;
+    text-align: center;
+    border: 5px solid brown;
+    border-top-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    border-top-right-radius: 40px;
+    border-bottom-left-radius: 40px;
+}
